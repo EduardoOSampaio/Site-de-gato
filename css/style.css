@@ -64,7 +64,7 @@ main {
 }
 
 
-@media (max-width: 800px) {
+@media (max-width: 991px) {
     header {
         font-size: 16px;
     }
@@ -75,7 +75,7 @@ main {
     }
 }
 
-@media (max-width: 400px) {
+@media (max-width: 480px) {
 
     h1 {
         font-size: 18px;
